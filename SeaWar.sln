@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeaWar", "SeaWar\SeaWar.csproj", "{DDFA2284-14EA-46EC-ACA8-B27F0A74D723}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDFA2284-14EA-46EC-ACA8-B27F0A74D723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDFA2284-14EA-46EC-ACA8-B27F0A74D723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDFA2284-14EA-46EC-ACA8-B27F0A74D723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDFA2284-14EA-46EC-ACA8-B27F0A74D723}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {284A8D3B-E555-4659-BB53-C97EBFE8BAAB}
+	EndGlobalSection
+EndGlobal
